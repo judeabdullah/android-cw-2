@@ -1,0 +1,9 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+       jude();
+     }
+     public static void jude(){
+         for (int a=1 ; a < 11; a++){
+             System.out.println(a);
+         }
